@@ -1,0 +1,440 @@
+/* Receitas de Natal */
+h1 {
+  font-size: 120px;
+  color: rgb(95, 33, 33);
+  font-family: "Courier New", Courier, monospace;
+}
+
+h2 {
+  color: rgb(95, 33, 33);
+  font-family: "Courier New", Courier, monospace;
+}
+
+ul {
+  list-style: none;
+}
+
+.nome {
+  font-size: 20px;
+  color: rgb(95, 33, 33);
+  text-decoration: none;
+  font-family: "Courier New", Courier, monospace;
+  display: flex;
+  margin-left: -3%;
+  margin-top: -1%;
+}
+
+img {
+  border-radius: 20px;
+  transition: 0.2s ease-in-out;
+  display: flex;
+  margin-left: -3%;
+}
+
+img:hover {
+  transform: scale(1.01);
+  cursor: pointer;
+}
+
+body {
+  background-color: rgb(250, 235, 215);
+}
+
+/* Arroz de Natal fácil */
+
+div {
+  margin-left: 10%;
+}
+
+header {
+  background-color: bisque;
+  margin-inline: -20%;
+  margin-top: -1%;
+  padding: 10px 20px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.home {
+  color: rgb(255, 64, 0);
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.home:hover {
+  background-color: rgb(255, 64, 0);
+}
+
+.home:hover {
+  color: rgb(250, 235, 215);
+}
+
+.Chester {
+  text-decoration: none;
+  color: rgb(255, 64, 0);
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.Chester:hover {
+  background-color: rgb(255, 64, 0);
+}
+
+.Chester:hover {
+  color: rgb(250, 235, 215);
+}
+
+h1 {
+  font-size: 30px;
+  font-family: "Courier New", Courier, monospace;
+  color: rgb(95, 33, 33);
+}
+
+ul {
+  font-size: larger;
+  font-family: "Courier New", Courier, monospace;
+  color: black;
+}
+
+ol {
+  font-family: "Courier New", Courier, monospace;
+  list-style: none;
+  color: black;
+}
+
+.mp {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  background-color: #f7efe4;
+  max-width: 50vw;
+  border-radius: 20px;
+  position: relative;
+}
+
+h3 {
+  font-family: "Courier New", Courier, monospace;
+}
+
+p {
+  font-family: "Courier New", Courier, monospace;
+  color: brown;
+}
+
+h3 {
+  color: rgb(95, 33, 33);
+}
+
+a {
+  text-decoration: underline;
+  color: rgb(95, 33, 33);
+}
+
+.duvidas {
+  background-color: bisque;
+  border-radius: 20px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 50vw;
+  margin-inline: 2%;
+  position: relative;
+}
+
+.dicas {
+  padding-block-end: 2%;
+}
+
+footer {
+  background-color: bisque;
+  margin-top: -1%;
+  margin-inline: -11%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  flex-direction: column;
+}
+
+/* Patê de Frango com Cenoura */
+
+div {
+  margin-left: 10%;
+}
+
+header {
+  background-color: bisque;
+  margin-inline: -20%;
+  margin-top: -1%;
+  padding: 10px 20px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.home {
+  color: rgb(255, 64, 0);
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.home:hover {
+  background-color: rgb(255, 64, 0);
+}
+
+.home:hover {
+  color: rgb(250, 235, 215);
+}
+
+.farofa {
+  color: rgb(255, 64, 0);
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.farofa:hover {
+  background-color: rgb(255, 64, 0);
+}
+
+.farofa:hover {
+  color: rgb(250, 235, 215);
+}
+
+.mp {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  background-color: #f7efe4;
+  max-width: 50vw;
+  border-radius: 20px;
+  position: relative;
+}
+
+.duvidas {
+  background-color: bisque;
+  border-radius: 20px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 50vw;
+  margin-inline: 2%;
+  position: relative;
+}
+
+footer {
+  background-color: bisque;
+  margin-top: -1%;
+  margin-inline: -11%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  flex-direction: column;
+}
+
+/* Farofa de bacon com calabresa simples */
+
+div {
+  margin-left: 10%;
+}
+
+.home {
+  color: rgb(255, 64, 0);
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.home:hover {
+  background-color: rgb(255, 64, 0);
+}
+
+.home:hover {
+  color: rgb(250, 235, 215);
+}
+
+.arroz {
+  color: rgb(255, 64, 0);
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.arroz:hover {
+  background-color: rgb(255, 64, 0);
+}
+
+.arroz:hover {
+  color: rgb(250, 235, 215);
+}
+
+.mp {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  background-color: #f7efe4;
+  max-width: 50vw;
+  border-radius: 20px;
+  position: relative;
+}
+
+.duvidas {
+  background-color: bisque;
+  border-radius: 20px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 50vw;
+  margin-inline: 2%;
+  position: relative;
+}
+
+footer {
+  background-color: bisque;
+  margin-top: -1%;
+  margin-inline: -11%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  flex-direction: column;
+}
+
+/* Chester simples */
+
+div {
+  margin-left: 10%;
+}
+
+.home {
+  color: rgb(255, 64, 0);
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.home:hover {
+  background-color: rgb(255, 64, 0);
+}
+
+.home:hover {
+  color: rgb(250, 235, 215);
+}
+
+.peru {
+  color: rgb(255, 64, 0);
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.peru:hover {
+  background-color: rgb(255, 64, 0);
+}
+
+.peru:hover {
+  color: rgb(250, 235, 215);
+}
+
+.mp {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  background-color: #f7efe4;
+  max-width: 50vw;
+  border-radius: 20px;
+  position: relative;
+}
+
+.duvidas {
+  background-color: bisque;
+  border-radius: 20px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 50vw;
+  margin-inline: 2%;
+  position: relative;
+}
+
+footer {
+  background-color: bisque;
+  margin-top: -1%;
+  margin-inline: -11%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  flex-direction: column;
+}
+
+/* Peru de Natal */
+
+div {
+  margin-left: 10%;
+}
+
+.home {
+  color: rgb(255, 64, 0);
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.home:hover {
+  background-color: rgb(255, 64, 0);
+}
+
+.home:hover {
+  color: rgb(250, 235, 215);
+}
+
+.patê {
+  color: rgb(255, 64, 0);
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.patê:hover {
+  background-color: rgb(255, 64, 0);
+}
+
+.patê:hover {
+  color: rgb(250, 235, 215);
+}
+
+.duvidas {
+  background-color: bisque;
+  border-radius: 20px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 50vw;
+  margin-inline: 2%;
+  position: relative;
+}
+
+footer {
+  background-color: bisque;
+  margin-top: -1%;
+  margin-inline: -11%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  flex-direction: column;
+}
